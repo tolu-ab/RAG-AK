@@ -1,0 +1,17 @@
+firebase_functions~=0.1.0
+Flask==2.1.2
+waitress==2.0.0
+langchain
+IPython
+langchain_experimental
+tiktoken
+firebase-admin==6.0.0
+gitpython==3.1.24
+Werkzeug==2.2.2
+pydantic==1.10.9
+langchain_anthropic
+langchain_openai
+unstructured[all-docs]
+cffi
+pysqlite3-binary
+chromadb==0.3.29
